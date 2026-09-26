@@ -24,7 +24,7 @@ Leetspeak is a typeface and interactive web experience based on Leetspeak (also 
 
 ## Demo
 
-[Live Demo](https://be-keb.github.io/leetspeak/) &mdash; Try the live encoder!
+[Live Demo](https://be-keb.github.io/LeetSpeak/) &mdash; Try the live encoder!
 
 ## Features
 
